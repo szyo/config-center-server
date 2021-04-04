@@ -1,4 +1,4 @@
 config:
     name: zhangsan
-    version: 0.1
+    version: 0.2
     profile: dev
